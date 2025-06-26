@@ -5,13 +5,13 @@ A flexible and customizable pagination component for React applications.
 ## Installation
 
 ```bash
-npm install react-pagination
+npm install react-pagination-kit-pro
 ```
 
 ## Usage
 
 ```tsx
-import { Pagination } from "react-pagination";
+import { Pagination } from "react-pagination-kit-pro";
 
 // Basic usage
 <Pagination
@@ -92,7 +92,7 @@ The component includes proper ARIA attributes for better accessibility:
 The component is fully typed and supports TypeScript. Import types as needed:
 
 ```typescript
-import type { PaginationProps } from 'react-pagination';
+import type { PaginationProps } from 'react-pagination-kit-pro';
 ```
 
 ## Development

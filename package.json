@@ -1,13 +1,15 @@
 {
-  "name": "react-pagination-pro",
-  "version": "1.0.0",
+  "name": "react-pagination-kit-pro",
+  "version": "1.0.2",
   "description": "React Pagination",
   "keywords": [
     "React",
     "Pagination",
     "Simple",
     "Dynamic",
-    "pro pagination"
+    "pro pagination",
+    "pagination kit",
+    "pagination component"
   ],
   "license": "LGPL-2.1",
   "author": "Sanooj Hussain",
