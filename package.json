@@ -1,5 +1,5 @@
 {
-  "name": "react-pagination",
+  "name": "react-pagination-pro",
   "version": "1.0.0",
   "description": "React Pagination",
   "keywords": [
@@ -7,9 +7,9 @@
     "Pagination",
     "Simple",
     "Dynamic",
-    "pagination"
+    "pro pagination"
   ],
-  "license": "ISC",
+  "license": "LGPL-2.1",
   "author": "Sanooj Hussain",
   "type": "module",
   "types": "dist/index.d.ts",

@@ -104,5 +104,13 @@ npm run build
 ```
 
 ## License
+Licensed under the [LGPL-2.1](https://www.gnu.org/licenses/lgpl-2.1.html)
 
-ISC
+## Author
+Sanooj Hussain
+
+## Maintainer
+Sanooj Hussain
+
+## Homepage
+[https://github.com/sanooj/react-pagination](https://github.com/sanooj/react-pagination)
